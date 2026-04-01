@@ -38,7 +38,7 @@ const steps = [
 
 function HowItWorks() {
     return (
-        <section className="relative py-28 px-6 overflow-hidden">
+        <section id="how-it-works" className="relative py-28 px-6 overflow-hidden">
             {/* Subtle bg */}
             <div className="absolute inset-0 bg-gradient-to-b from-white via-orange-50/30 to-white dark:from-zinc-900 dark:via-zinc-900 dark:to-zinc-900" />
 

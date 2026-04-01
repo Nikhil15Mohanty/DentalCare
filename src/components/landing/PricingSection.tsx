@@ -56,7 +56,7 @@ const plans = [
 
 function PricingSection() {
     return (
-        <section className="relative py-28 px-6 overflow-hidden">
+        <section id="pricing" className="relative py-28 px-6 overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-b from-white via-muted/20 to-white dark:from-zinc-900 dark:via-zinc-950 dark:to-zinc-900" />
 
             {/* Decorative */}
